@@ -8,6 +8,7 @@ export const metadata = {
 
 export default async function ReviewsPage() {
     const reviews = await getReviews();
+    console.log(reviews);
 
     return (
         <ul className="flex flex-row flex-wrap gap-3">

@@ -11,9 +11,7 @@ export const generateStaticParams = async () => {
 export const generateMetadata = async ({ params: { slug } }) => {
     const review = await getReview(slug);
 
-    return {
-        title: review.title,
-    };
+    return { title: review.title, };
 };
 
 export default async function ReviewPage({ params: { slug } }) {

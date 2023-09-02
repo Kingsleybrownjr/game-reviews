@@ -1,6 +1,5 @@
 {
-  "/icon.png/route": "app/icon.png/route.js",
   "/page": "app/page.js",
   "/reviews/page": "app/reviews/page.js",
-  "/about/page": "app/about/page.js"
+  "/reviews/[slug]/page": "app/reviews/[slug]/page.js"
 }
