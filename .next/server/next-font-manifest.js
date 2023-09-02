@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/kingsleybrownjr./Developer/react/tutorial/game-review-app/game-reviews/app/layout\":[\"static/media/117b353a81c70b49-s.p.woff2\",\"static/media/04ff47e1ca568747-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
